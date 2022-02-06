@@ -1,35 +1,17 @@
-# Note Taker Starter Code
-
+# 11 Express.js: Note Taker
 Description:
-This project was made to better understand Express.js and how it works/weaves through various pieces of code. In this project I learned how to create working get, post and delete functions.
+
+Created an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 
-
-Table of Contents
-Description
-Installation
-Usage
-Contributing
-License
-Questions
-Deployment
-Installation Instructions:
-This requires both express.js and uuid. Open the terminal and begin with npm init followed by npm i express, then npm i uuid as node modules are not included in this repo. This will allow for full functionality.
 
 Usage:
-To quickly create a team tracking page that includes, employee IDs, ranks, email. For engineers and interns this can include github links or schools.
+As a small business our client wants to be able to write and save notes so that he/she can organize their thoughts and keep track of tasks they need to complete
 
-Contributing:
-Want to contriubte? Here's the guidelines: None at the moment!
-
-License:
-This application is covered under the MIT license.
 
 My Github Account:
-Click here: https://github.com/Daelso
+Click here: https://github.com/edirie
 
-Questions:
-Feel free to email me at: cmurtau@g.clemson.edu
 
 Deployment:
-Try it out at: https://placid-plateau.herokuapp.com/
+Try it out at: https://evening-oasis-05169.herokuapp.com/
